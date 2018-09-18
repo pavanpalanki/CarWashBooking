@@ -17,7 +17,7 @@ public class ConnectionPool {
             //Connection con = DriverManager.getConnection(
                     //"jdbc:mysql://localhost:3306/carwash?user=root&password=root");
             Connection con = DriverManager.getConnection(
-                    "jdbc:mysql://sl-us-south-1-portal.7.dblayer.com:36442/carwash?user=admin&password=MAWMYDRWSLPMUVQA");
+                    "jdbc:mysql://sl-us-south-1-portal.33.dblayer.com:57704/carwash?user=admin&password=OSNTKJEPHVIPLGWH");
             /*InitialContext ic = new InitialContext();
             ic.bind("java:/comp/env/jdbc/carwash", con);*/
             /*final String DB_URL = "jdbc:mysql://carwashdb.czcorxm8kkgd.us-west-2.rds.amazonaws.com:3306/carwash";
